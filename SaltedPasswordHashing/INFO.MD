@@ -12,12 +12,12 @@
 	<li>Steps 3 and 4 repeat every time someone tries to login to their account.</li>
 </ol>
 
-<p>The Basics: Hashing with Salt</p>
+<h2>The Basics: Hashing with Salt</h2>
 Salt should be generated using a Cryptographically Secure Pseudo-Random Number Generator (CSPRNG)
 
-Python: <a href="https://docs.python.org/3/library/secrets.html">Secret</a>
-Dot NET (C#, VB): <a href="https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?redirectedfrom=MSDN&view=net-7.0">System.Security.Cryptography.RNGCryptoServiceProvider</a>
-Java: <a href="http://docs.oracle.com/javase/6/docs/api/java/security/SecureRandom.html">java.security.SecureRandom</a>
+Python: <a href="https://docs.python.org/3/library/secrets.html">Secret</a><br>
+Dot NET (C#, VB): <a href="https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?redirectedfrom=MSDN&view=net-7.0">System.Security.Cryptography.RNGCryptoServiceProvider</a><br>
+Java: <a href="http://docs.oracle.com/javase/6/docs/api/java/security/SecureRandom.html">java.security.SecureRandom</a><br>
 
 ## Document
 python: https://docs.python.org/3/library/secrets.html

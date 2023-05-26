@@ -5,5 +5,5 @@ It allows access to environmental noise collected from device drivers and other 
 <b>/dev/random<b> and <b>/dev/urandom<b> are similar, but <b>/dev/random<b> blocks if there is not enough entropy available, while <b>/dev/urandom<b> never blocks.
 
 
-## More information
+## Reference
 <a href="https://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/">How To Safely Generate A Random Number</a>

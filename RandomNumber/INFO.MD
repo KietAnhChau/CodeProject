@@ -1,9 +1,9 @@
 # RandomNumber
 
-/dev/urandom is a special file in Unix-like operating systems that serves as a cryptographically secure pseudorandom number generator. 
-It allows access to environmental noise collected from device drivers and other sources. 
-/dev/random and /dev/urandom are similar, but /dev/random blocks if there is not enough entropy available, while /dev/urandom never blocks.
+<b>/dev/urandom<b> is a special file in Unix-like operating systems that serves as a cryptographically secure pseudorandom number generator. 
+It allows access to environmental noise collected from device drivers and other sources. <br>
+<b>/dev/random<b> and <b>/dev/urandom<b> are similar, but <b>/dev/random<b> blocks if there is not enough entropy available, while <b>/dev/urandom<b> never blocks.
 
 
-How To Safely Generate A Random Number
+## More information
 <a href="https://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/">How To Safely Generate A Random Number</a>
